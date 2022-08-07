@@ -1,0 +1,18 @@
+.container{
+    height: 100%;
+    width: 100%;
+}
+.barra{
+   
+    height: 15%;
+    width: 100%;
+    display: flex;
+}
+.segunda{
+    display: flex;
+    justify-content: flex-start;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
